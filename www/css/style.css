@@ -1,0 +1,10 @@
+:root {
+    --f7-theme-color: #f00;
+    --f7-theme-color-shade: #d60000;
+    --f7-theme-color-tint: #ff2929;
+    --f7-theme-color-rgb: 255, 0, 0;
+  }
+
+  .card-header { 
+    background-color: aqua;
+  }
