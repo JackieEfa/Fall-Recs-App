@@ -120,6 +120,9 @@ h1 {
     }
 }
 
+.bg {
+  background: radial-gradient(#1fe4f5, #3fbafe);
+}
 
 .main-container {
     padding: 20px;
@@ -147,6 +150,13 @@ h1 {
   }
   
   /* CARDS */
+
+  img.rounded-corners {
+  margin: 40px;
+  height: 300px;
+  width: 200px;
+  border-radius: 10px;
+}
   
   .cards {
     display: flex;
